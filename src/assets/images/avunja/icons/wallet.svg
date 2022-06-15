@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="21.872" viewBox="0 0 22 21.872">
+  <g id="Group_426" data-name="Group 426" transform="translate(-497 -544.128)">
+    <g id="tablet" transform="translate(496 569) rotate(-90)">
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="16" height="20" rx="2" transform="translate(4 2)" fill="none" stroke="#a3a2a2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_260" data-name="Line 260" x2="0.01" transform="translate(12 18)" fill="none" stroke="#a3a2a2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="Path_429" data-name="Path 429" d="M13,11.4h1.8A1.2,1.2,0,0,0,16,10.2V6" transform="translate(523 544) rotate(90)" fill="none" stroke="#a3a2a2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Group_322" data-name="Group 322" transform="translate(0 1)">
+      <path id="Path_430" data-name="Path 430" d="M13,11.4h1.8A1.2,1.2,0,0,0,16,10.2V6" transform="matrix(-0.259, -0.966, 0.966, -0.259, 507.649, 562.758)" fill="none" stroke="#a3a2a2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_431" data-name="Path 431" d="M0,3,10,0" transform="translate(500.157 545) rotate(3)" fill="none" stroke="#a3a2a2" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Group_7942" data-name="Group 7942" transform="translate(-1084 -1630)">
+    <g id="Ellipse_96" data-name="Ellipse 96" transform="translate(1084 1630)" fill="#fff" stroke="#000" stroke-width="1.5">
+      <circle cx="22" cy="22" r="22" stroke="none"/>
+      <circle cx="22" cy="22" r="21.25" fill="none"/>
+    </g>
+    <path id="message-circle" d="M22.8,12.35a9.218,9.218,0,0,1-.99,4.18,9.35,9.35,0,0,1-8.36,5.17,9.218,9.218,0,0,1-4.18-.99L3,22.8l2.09-6.27a9.218,9.218,0,0,1-.99-4.18A9.35,9.35,0,0,1,9.27,3.99,9.218,9.218,0,0,1,13.45,3H14a9.328,9.328,0,0,1,8.8,8.8Z" transform="translate(1093.1 1639.1)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

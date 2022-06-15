@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="697.29" height="488.73" viewBox="0 0 697.29 488.73">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.812" x2="0.5" y2="-0.345" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8c19"/>
+      <stop offset="1" stop-color="#ffc967"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.621" y1="0.314" x2="0.621" y2="-0.275" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8fdff"/>
+      <stop offset="1" stop-color="#aad4ff"/>
+    </linearGradient>
+    <filter id="Path_27" x="234.789" y="96.93" width="193.861" height="221.86" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feFlood flood-color="#1394e0" flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5" x="268.648" y="119.604" width="126.281" height="126.787" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14" result="blur-2"/>
+      <feFlood flood-color="#1394e0" flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.472" y1="-0.282" x2="0.5" y2="0.91" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#784931"/>
+      <stop offset="1" stop-color="#915b3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.457" y1="-0.282" y2="0.91" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="0.445" y1="-0.282" y2="0.91" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="0.441" y1="-0.282" y2="0.91" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-7" x1="0.478" y1="-0.282" y2="0.91" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-not-authorized">
+      <rect width="697.29" height="488.73"/>
+    </clipPath>
+  </defs>
+  <g id="not-authorized" clip-path="url(#clip-not-authorized)">
+    <g id="_-Pages-New" data-name="📝-Pages-New" transform="translate(-6)">
+      <g id="Not-Authorized-2" data-name="Not-Authorized" transform="translate(-444 -309)">
+        <g id="Illustration" transform="translate(450 309)">
+          <g id="Shape">
+            <path id="Oval" d="M393.6,0C474.454,0,540,65.259,540,145.76S474.454,291.52,393.6,291.52,247.2,226.261,247.2,145.76,312.742,0,393.6,0Zm0,54.49c-50.629,0-91.672,40.863-91.672,91.27s41.043,91.27,91.672,91.27,91.672-40.863,91.672-91.27S444.227,54.49,393.6,54.49Z" fill="#7367f0" opacity="0.053"/>
+            <path id="Oval-2" data-name="Oval" d="M41.5,189.806A41.322,41.322,0,1,1,0,231.128,41.413,41.413,0,0,1,41.5,189.806Zm0,27.245a14.077,14.077,0,1,0,14.139,14.077A14.108,14.108,0,0,0,41.5,217.051Z" fill="#8bf78f" opacity="0.141"/>
+            <ellipse id="Oval-3" data-name="Oval" cx="82.095" cy="81.735" rx="82.095" ry="81.735" transform="translate(87.568 281.531)" fill="rgba(115,103,240,0.06)"/>
+            <ellipse id="Oval-4" data-name="Oval" cx="29.189" cy="29.061" rx="29.189" ry="29.061" transform="translate(113.108 48.133)" fill="#cef5ff" opacity="0.141"/>
+            <ellipse id="Oval-5" data-name="Oval" cx="29.189" cy="29.061" rx="29.189" ry="29.061" transform="translate(456.993 334.204)" fill="rgba(115,103,240,0.14)"/>
+          </g>
+          <g id="File-Organizer" transform="translate(113 100)">
+            <g id="Phone3" transform="translate(55.887)">
+              <path id="Rectangle" d="M25.137,0H159.708a25.137,25.137,0,0,1,25.137,25.137v329.5a25.137,25.137,0,0,1-25.137,25.137H25.137A25.137,25.137,0,0,1,0,354.641V25.137A25.137,25.137,0,0,1,25.137,0Z" fill="#c4e3e7" fill-rule="evenodd"/>
+              <g id="Group-48" transform="translate(6.667 7.653)">
+                <path id="Rectangle-2" data-name="Rectangle" d="M18.522,0H39.813a3,3,0,0,1,3,2.912l.061,2.076a5.138,5.138,0,0,0,5.136,4.988H122.9a5.138,5.138,0,0,0,5.136-4.988l.061-2.076a3,3,0,0,1,3-2.912h21.291a18.522,18.522,0,0,1,18.522,18.522v325.16A18.522,18.522,0,0,1,152.384,362.2H18.522A18.522,18.522,0,0,1,0,343.682V18.522A18.522,18.522,0,0,1,18.522,0Z" fill="#fff"/>
+                <ellipse id="Oval-6" data-name="Oval" cx="14.659" cy="14.512" rx="14.659" ry="14.512" transform="translate(50.136 205.94)" fill="#7367f0" opacity="0.099"/>
+                <path id="Oval-7" data-name="Oval" d="M152.519,205.94c39.088,0,70.774,31.369,70.774,70.064s-31.687,70.064-70.774,70.064S81.744,314.7,81.744,276,113.431,205.94,152.519,205.94Zm0,30.61A39.455,39.455,0,1,0,192.372,276,39.655,39.655,0,0,0,152.519,236.55Z" fill="#c8f5d0" fill-rule="evenodd" opacity="0.141"/>
+                <path id="Rectangle-3" data-name="Rectangle" d="M25.58,62.184H146.612a4.762,4.762,0,1,1,0,9.523H25.58a4.762,4.762,0,1,1,0-9.523Z" fill="rgba(104,222,158,0.64)" fill-rule="evenodd"/>
+              </g>
+              <path id="Path" d="M102.442,6.649A2.8,2.8,0,0,1,105.3,9.37a2.789,2.789,0,0,1-2.758,2.719l-.1,0H70.068A2.8,2.8,0,0,1,67.2,9.37a2.789,2.789,0,0,1,2.758-2.719l.1,0Z" fill="#56cdd9"/>
+              <path id="Path-2" data-name="Path" d="M114.044,6.2a2.834,2.834,0,0,1,.1,5.667l-.1,0h-.15a2.834,2.834,0,0,1-.1-5.667l.1,0Z" fill="#56cdd9"/>
+            </g>
+            <g id="Group-37" transform="translate(67.797 127.884)">
+              <path id="Rectangle-4" data-name="Rectangle" d="M4,.64H9.445A3.652,3.652,0,0,1,13.1,4.292V6.725a1.219,1.219,0,0,0,1.219,1.219H55.484a4,4,0,0,1,4,4V46.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4.64A4,4,0,0,1,4,.64Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+              <path id="Rectangle-5" data-name="Rectangle" d="M15.3,4.1H60.53a1.219,1.219,0,0,1,1.2,1.413L54.944,47.65a1.219,1.219,0,0,1-1.2,1.025H8.51a1.219,1.219,0,0,1-1.2-1.413L14.1,5.121A1.219,1.219,0,0,1,15.3,4.1Z" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+              <path id="Rectangle-6" data-name="Rectangle" d="M66.445,20.188,61.669,44.507a8,8,0,0,1-7.85,6.458H4.862A4,4,0,0,1,.937,46.194L5.713,21.875a8,8,0,0,1,7.85-6.458H62.52a4,4,0,0,1,3.925,4.771Z" fill="#ffcc7b" fill-rule="evenodd"/>
+            </g>
+            <g id="Group-28" transform="translate(0 81.628)">
+              <path id="Rectangle-7" data-name="Rectangle" d="M6,0H33.316l10.66,10.884V45.7a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" fill="#b7b1fb" fill-rule="evenodd"/>
+              <g id="Icon" transform="translate(8.95 16.523)">
+                <path id="Mask" d="M19.69,3.569V17.846a2.633,2.633,0,0,1-2.685,2.677H12.53a.892.892,0,1,1,0-1.785h4.475a.844.844,0,0,0,.9-.892V3.569a.844.844,0,0,0-.9-.892H12.53a.844.844,0,0,1-.9-.892.844.844,0,0,1,.9-.892h4.475A2.633,2.633,0,0,1,19.69,3.569Zm-5.46,7.5a.975.975,0,0,0,0-.714c-.09-.089-.09-.178-.179-.268l-3.58-3.569A.885.885,0,0,0,9.219,7.763l2.059,2.052H2.685a.892.892,0,1,0,0,1.785h8.592L9.219,13.652a.861.861,0,0,0,0,1.249.867.867,0,0,0,1.253,0l3.58-3.569C14.141,11.243,14.231,11.153,14.231,11.064Z"/>
+                <g id="Group">
+                  <g id="Icon-Color">
+                    <rect id="_-Icon-Color" data-name="🎨-Icon-Color" width="21.48" height="21.415" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <path id="Path-3" data-name="Path" d="M43.976,10.884h-7.66a3,3,0,0,1-3-3V0h0Z" fill="#7367f0" opacity="0.34"/>
+            </g>
+            <g id="Group-2" data-name="Group" transform="translate(19.24 215.86)">
+              <path id="Rectangle-8" data-name="Rectangle" d="M6,0H56.3a6,6,0,0,1,6,6V45.7a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" fill="#6fd9e6" fill-rule="evenodd"/>
+              <g id="Icon-2" data-name="Icon" transform="translate(17.9 13.384)">
+                <path id="Mask-2" data-name="Mask" d="M19.839,10.41H18.8V7.287a6.265,6.265,0,0,0-12.53,0V10.41H5.221a3.072,3.072,0,0,0-3.133,3.123V20.82a3.072,3.072,0,0,0,3.133,3.123H19.839a3.072,3.072,0,0,0,3.133-3.123V13.533A3.072,3.072,0,0,0,19.839,10.41ZM8.353,7.287a4.177,4.177,0,0,1,8.353,0V10.41H8.353ZM20.884,20.82a.985.985,0,0,1-1.044,1.041H5.221A.985.985,0,0,1,4.177,20.82V13.533a.985.985,0,0,1,1.044-1.041H19.839a.985.985,0,0,1,1.044,1.041Z"/>
+                <g id="Group-3" data-name="Group">
+                  <g id="Icon-Color-2" data-name="Icon-Color">
+                    <rect id="_-Icon-Color-2" data-name="🎨-Icon-Color" width="25.06" height="24.984" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group-34" transform="translate(73.294 50.791)">
+              <path id="Rectangle-9" data-name="Rectangle" d="M6,0H56.3a6,6,0,0,1,6,6V45.7a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" fill="#baf3c4"/>
+              <ellipse id="Oval-8" data-name="Oval" cx="8.246" cy="8.163" rx="8.246" ry="8.163" transform="translate(19.24 10.884)" fill="#fff"/>
+              <ellipse id="Oval-9" data-name="Oval" cx="29.776" cy="29.477" rx="29.776" ry="29.477" transform="translate(-21.072 31.744)" fill="#28c76f"/>
+              <ellipse id="Oval-10" data-name="Oval" cx="35.273" cy="34.465" rx="35.273" ry="34.465" transform="translate(27.485 19.953)" fill="#69e09e"/>
+            </g>
+            <g id="Group-23" transform="translate(155.75 29.93)">
+              <g id="Rectangle-10" data-name="Rectangle">
+                <g transform="matrix(1, 0, 0, 1, -268.75, -129.93)" filter="url(#Path_27)">
+                  <path id="Path_27-2" data-name="Path 27" d="M10.04,0H99.431a10,10,0,0,1,10,9.96l.47,117.86a10,10,0,0,1-9.96,10.04H10.51a10,10,0,0,1-10-9.96L.04,10.04A10,10,0,0,1,10,0Z" transform="translate(268.75 129.93)"/>
+                </g>
+                <path id="Path_28" data-name="Path 28" d="M10.04,0H99.431a10,10,0,0,1,10,9.96l.47,117.86a10,10,0,0,1-9.96,10.04H10.51a10,10,0,0,1-10-9.96L.04,10.04A10,10,0,0,1,10,0Z" fill="#fff"/>
+              </g>
+              <path id="Rectangle-11" data-name="Rectangle" d="M37.536,85.256h34.87a2.721,2.721,0,0,1,0,5.442H37.536a2.721,2.721,0,1,1,0-5.442Z" fill="#7367f0" opacity="0.34"/>
+              <path id="Rectangle-12" data-name="Rectangle" d="M28.374,99.767H81.567a2.721,2.721,0,1,1,0,5.442H28.374a2.721,2.721,0,1,1,0-5.442Z" fill="#7367f0" opacity="0.34"/>
+              <g id="Icon8" transform="translate(33.898 22.674)">
+                <g id="Oval-11" data-name="Oval">
+                  <g transform="matrix(1, 0, 0, 1, -302.65, -152.6)" filter="url(#Ellipse_5)">
+                    <ellipse id="Ellipse_5-2" data-name="Ellipse 5" cx="21.141" cy="21.394" rx="21.141" ry="21.394" transform="translate(302.65 152.6)"/>
+                  </g>
+                  <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="21.141" cy="21.394" rx="21.141" ry="21.394" transform="translate(0 0)" fill="#fff"/>
+                </g>
+                <g id="Group-70" transform="translate(12.826 9.977)">
+                  <path id="Combined-Shape" d="M12.964,12.223a4.461,4.461,0,0,1,4.461,4.461v3.15a1.312,1.312,0,0,1-1.312,1.312H1.312A1.312,1.312,0,0,1,0,19.834v-3.15a4.461,4.461,0,0,1,4.461-4.461ZM8.713,0a5.381,5.381,0,0,1,5.408,5.354,5.408,5.408,0,0,1-10.816,0A5.381,5.381,0,0,1,8.713,0Z" fill="#7367f0" fill-rule="evenodd"/>
+                </g>
+              </g>
+            </g>
+            <g id="Wom3.5" transform="translate(210.72 63.488)">
+              <g id="RArm" transform="translate(91.272 52.024)">
+                <path id="Path-4" data-name="Path" d="M13.589,69.931S3.859,80.464,4.535,81.413s5.719-1.6,5.719-1.6S4.347,90.666,5.712,91.408s8.05-1.234,10.017-3.508,4.622-13.383,4.622-13.383L34.469,44.885l-11.48-3.3Z" transform="matrix(0.999, 0.05, -0.05, 0.999, 3.354, -0.891)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+                <path id="Path-5" data-name="Path" d="M2.966,16.229c4.3,6.618,18.785,25.479,18.785,25.479L20.7,45.471,34.006,54.5q3.781-10.341,4.109-11.8C39.2,37.909,17.331,7.285,12.435,2.86,4.726-4.108-3.609,6.115,2.966,16.229Z" fill="#fd8715" fill-rule="evenodd"/>
+                <path id="Path-6" data-name="Path" d="M25.214,46.715q.248-.479-3.44-5.075l-.625,2.235Q24.965,47.194,25.214,46.715Z" fill="rgba(0,0,0,0.16)" fill-rule="evenodd"/>
+                <path id="Path-70" d="M20.614,44.208,34.754,54.9,31.6,61.811,19.24,48.2Z" fill="#ffedc2" fill-rule="evenodd"/>
+              </g>
+              <g id="RLeg" transform="translate(67.489 111.115)">
+                <path id="Path-7" data-name="Path" d="M35.472,179.674l-.785,13.248,10.068.26-1.892-13.507Z" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+                <path id="Path-8" data-name="Path" d="M35.718-184.893s.283-7.978-1.386-10.763a13.9,13.9,0,0,1-2.263-6.61,25.735,25.735,0,0,1,.091-3.4H48.824s.417,8.393-.687,9.977-1.828,1.61-1.828,3.008-.247,7.74-.247,7.74Z" transform="translate(80.949) rotate(180)" fill="#391b0b" fill-rule="evenodd"/>
+                <path id="Path-9" data-name="Path" d="M0,2.811,26.118,0,26.5.353c1.861,1.756,9.951,9.91,12.275,21.056,4.388,21.042-1.485,59.905-1.355,68.427S41.614,103.5,43.3,115.549s1.85,65.9,1.85,65.9c-4.482,2.629-8.426,2.818-13.77-.158Z" fill="#4e3319" fill-rule="evenodd"/>
+                <path id="Path-10" data-name="Path" d="M23.33,135.481,0,2.811,14.522,1.248C15.169,47.337,24.2,109.638,23.33,135.481Z" fill="rgba(255,255,255,0.19)" fill-rule="evenodd"/>
+              </g>
+              <g id="LLeg" transform="translate(45.207 114.766)">
+                <path id="Path-11" data-name="Path" d="M27.631,174.63l-8.586.138q.565,8.822-2.737,11.811l-.18.156c-3.986,3.307,11.391,2.113,11.391,2.113Z" fill-rule="evenodd" fill="url(#linear-gradient-5)"/>
+                <path id="Path-12" data-name="Path" d="M.6-181.508l.247-20.5,6.114,0,.053,5.053s1.928-4.711,4.876-4.983,16.128-.105,16.128-.105,1.094,4.73-5.462,6.878c-5.453,1.785-11.483,13.667-11.483,13.667Z" transform="translate(28.688) rotate(180)" fill="#391b0b" fill-rule="evenodd"/>
+                <path id="Path-13" data-name="Path" d="M9.326.984,38.654,0l.219.4c1.423,2.672,9.221,18.317,6.813,36.1-3.38,24.96-11.971,54.222-12.392,58.692-.75,7.97.75,13.74,1.365,21.972s-2.345,60-2.345,60c-4.352,2.591-9.531,3.1-16.115.078q-5.944-70.321-5.988-81.45C10.168,84.668,9.326.984,9.326.984Z" fill="#604021" fill-rule="evenodd"/>
+                <path id="Path-14" data-name="Path" d="M15.361,27.982l-.195,1.849c-1.955,19.5-1.94,60.914-1.183,67.3l.1.823q1.259,10.811.082,54.892l-1.022-12.681q-2.9-36.6-2.935-44.369l-.035-5.359C10.008,68.768,9.326.984,9.326.984L15.511.777A170.165,170.165,0,0,1,15.361,27.982Z" fill="rgba(255,255,255,0.19)" fill-rule="evenodd"/>
+              </g>
+              <g id="Head" transform="translate(63.096 3.055)">
+                <path id="Path-15" data-name="Path" d="M2.621,20.265c-3.609.391-3.353,6.671,1.04,7,.9,6.055,4.1,8.939,8,9.273l-.217,9.158,17.268-.01A26.586,26.586,0,0,1,24.1,30.359c.242-8.857-.163-17.177-.163-17.177l-22.366.4Z" fill-rule="evenodd" fill="url(#linear-gradient-6)"/>
+                <path id="Path-16" data-name="Path" d="M29.105-20.735C24.9-19.09,21.8-26.174,18.581-31.1s-11.548-4.087-12.7,0C1.538-22.146-2.209-9.976,2.864-8.977,3.578,3.962,37.786.907,29.105-20.735Z" transform="translate(30.94) rotate(180)" fill="#8b5030" fill-rule="evenodd"/>
+                <path id="Combined-Shape-2" data-name="Combined-Shape" d="M25.564,4.08a6.736,6.736,0,0,1,2.512,4.9c5.073,1,1.327,13.17-3.021,22.122-1.068,3.8-8.348,4.791-11.949.951-3.284-9.74-1.881-20.631,4.759-27.968h7.7Z" fill="rgba(0,0,0,0.2)" fill-rule="evenodd"/>
+                <ellipse id="Oval-12" data-name="Oval" cx="4.123" cy="4.081" rx="4.123" ry="4.081" transform="translate(16.611 0)" fill="#fb9934"/>
+              </g>
+              <g id="Body" transform="translate(50.526 45.843)">
+                <path id="Path-17" data-name="Path" d="M44.73-4.681C48.583-10.283,55-29.3,55.367-33.575c.41-4.934-4.933-12.795-5.021-19.938s3.986-28.654,2.765-30.664S17.166-95.082,14.9-95.035-1.6-82.878.184-78.694s10.14,14.582,9.29,20.283-5.719,26.742-8.141,33.9S-.276-9.826,4.228-6.744A30.708,30.708,0,0,0,22.991-.907C33.58-.927,44.431-4.246,44.73-4.681Z" transform="translate(55.39) rotate(180)" fill="#fd8715" fill-rule="evenodd"/>
+                <path id="Path-68" d="M22.616.5q-.446,2.409,1.505,2.409c1.951,0,15.036.427,16.808-.335Q42.7,1.81,42.169.5Z" fill="#fff6e1" fill-rule="evenodd"/>
+                <path id="Path-18" data-name="Path" d="M5.068,16.8l.119-.059q10.7-5.289,12.857-.467Q20.829,22.5,3.6,46.224C2.019,41.428-.25,36.855.022,33.575.233,31.1,2.472,23.689,5.068,16.8Z" fill="rgba(0,0,0,0.16)" fill-rule="evenodd"/>
+              </g>
+              <g id="LArm" transform="translate(0 23.915)">
+                <path id="Path-19" data-name="Path" d="M8,27.046S6.716,24.284,4.7,23.537-.414,17.839.064,16.4,4.72,10.978,4.72,10.978,1.026,1.163,2.662.055C4.108-.924,9.579,11.439,9.579,11.439s3.216.48,3.959,1.744c1.871,3.186.457,10.353.457,10.353L32.982,51.005,24.27,62.064Z" fill-rule="evenodd" fill="url(#linear-gradient-7)"/>
+                <path id="Path-20" data-name="Path" d="M56.473,29.176c-6.422,5.648-22.129,20.631-22.129,20.631l-2.334-3.54L20.263,58.175q8.861,13.011,11.747,13.1c7.518.237,20.99-13.816,33.655-24.789C77.02,36.65,68.444,18.648,56.473,29.176Z" fill="#fd8715" fill-rule="evenodd"/>
+                <path id="Path-21" data-name="Path" d="M34.391,49.825q-4.406,5.045-4.77,4.495t3.324-6.683Z" fill="rgba(0,0,0,0.16)" fill-rule="evenodd"/>
+                <path id="Path-69" d="M33.416,47.069l-13.624,15-4.2-8.557,15.23-9.461Z" fill="#ffedc2" fill-rule="evenodd"/>
+              </g>
+              <path id="Path-22" data-name="Path" d="M95.828-3.888S91.97,1.087,87.515-.218s-8.484-9.306-6.571-16.826.334-11.811-1.976-16.88c-6.2-13.635,15.276-22.292,15.276-22.292q-1.676,10.1,1.584,16.2c3.357,6.283,5.264,14.34,5.264,19.271C101.092-12.167,95.828-3.888,95.828-3.888Z" transform="translate(178.935) rotate(180)" fill="#8b5030" fill-rule="evenodd"/>
+            </g>
+            <g id="Group-39" transform="translate(245.535 6.349)">
+              <path id="Rectangle-13" data-name="Rectangle" d="M0,6.445c15.521-8.854,31.255-8.33,47.165,0l-1,11.063A48.4,48.4,0,0,1,23.582,54.2h0A47.107,47.107,0,0,1,.62,16.575L0,6.445Z" fill="#28c76f" fill-rule="evenodd"/>
+              <ellipse id="Oval-13" data-name="Oval" cx="12.863" cy="12.734" rx="12.863" ry="12.734" transform="translate(10.719 11.673)" fill="#1ca258"/>
+              <g id="Group-40" transform="translate(13.935 14.856)">
+                <path id="Path-23" data-name="Path" d="M9.464.5a8.938,8.938,0,0,1,8.66,6.579.557.557,0,0,1-.4.681.563.563,0,0,1-.688-.4A7.843,7.843,0,0,0,1.635,9.34a9.944,9.944,0,0,0,2.4,6.511.553.553,0,0,1-.079.784.567.567,0,0,1-.792-.078A11.05,11.05,0,0,1,.509,9.34,8.9,8.9,0,0,1,9.464.5Z" fill="#fff" fill-rule="evenodd"/>
+                <path id="Path-24" data-name="Path" d="M9.941,2.895a6.169,6.169,0,0,1,6.215,5.9l0,.187c.006,1.838.527,2.848,1.524,3.178a.557.557,0,1,1-.349,1.058c-1.487-.491-2.241-1.874-2.3-4.015l0-.224A5.037,5.037,0,0,0,9.944,4.01C7.413,4,5.261,6.315,4.965,8.9a8.029,8.029,0,0,0-.042,1.433l.032.4c.124,1.279.5,2.335,2.247,6.885a.553.553,0,0,1-.324.718.567.567,0,0,1-.726-.326l-.936-2.451C4.1,12.6,3.9,11.8,3.807,10.493L3.8,10.4a9.131,9.131,0,0,1,.047-1.628C4.2,5.661,6.786,2.885,9.941,2.895Z" transform="translate(-2.868 4.137) rotate(-19)" fill="#fff" fill-rule="evenodd"/>
+                <path id="Path-25" data-name="Path" d="M10.542,5.948A3.117,3.117,0,0,1,13.675,9.1a6.205,6.205,0,0,0,2.431,5.562.556.556,0,0,1,.118.781.564.564,0,0,1-.786.113,7.312,7.312,0,0,1-2.887-6.494,1.99,1.99,0,0,0-2.005-2c-1.189,0-2.065.831-2.254,2.322A8.759,8.759,0,0,0,9.009,12.9l.1.27c.08.221.165.45.259.694l1.021,2.591a.553.553,0,0,1-.326.717.567.567,0,0,1-.725-.328l-.818-2.069-.2-.523c-.1-.249-.183-.483-.265-.711l-.195-.554A8.93,8.93,0,0,1,7.176,9.24,3.4,3.4,0,0,1,10.542,5.948Z" transform="translate(-3.13 4.453) rotate(-19)" fill="#fff" fill-rule="evenodd"/>
+                <path id="Path-26" data-name="Path" d="M9.775,9.68a.564.564,0,0,1,.7.37c.607,1.961,1.795,3.351,4.029,5.012a.553.553,0,0,1,.112.78.567.567,0,0,1-.788.111c-2.407-1.789-3.74-3.35-4.429-5.577A.556.556,0,0,1,9.775,9.68Z" fill="#fff" fill-rule="evenodd"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
