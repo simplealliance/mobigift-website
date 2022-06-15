@@ -1,3 +1,3 @@
 # Mobigift Web App
 
-### [Live Site](https://mobigift.vercel.app).
+### [Live Site](https://mobigift-website.vercel.app).

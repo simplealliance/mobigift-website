@@ -71,11 +71,11 @@ ReactDOM.render(
       <Suspense fallback={<Spinner />}>
         <AbilityContext.Provider value={ability}>
           <ThemeContext>
-            {/* <LazyApp /> */}
+            <LazyApp />
             {/* {
               testUser && testUser === "19992000tester123" ? <LazyApp /> : <TestApp />
             } */}
-            <MyApp />
+            {/* <MyApp /> */}
             <ToastContainer newestOnTop />
           </ThemeContext>
         </AbilityContext.Provider>
