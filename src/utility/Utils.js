@@ -85,8 +85,7 @@ export const selectThemeColors = (theme) => ({
 });
 
 export const lsSecret = 19992000;
-export const GOOGLE_API_KEY = "AIzaSyD6AUPIR0eIiGldIIo0b06uqLxlZDyQh-I";
-// AIzaSyBFoB0sOn7DspfLNL4ZxO1VrN30vGhjDrs
+export const GOOGLE_API_KEY = "AIzaSyDI_Co0_LSp1TZsVRZ685E8ha0nw3MW6PI";
 
 export const isMobileWidth = () => {
   return useMediaQuery({ maxWidth: "575.98px" });
@@ -203,7 +202,7 @@ export function splitForName(name) {
 }
 
 // export const webUrl = "http://localhost:3000"
-export const webUrl = "https://jsonone.vercel.app"
+export const webUrl = "https://mobigift-website.vercel.app"
 export const validAlphaNumeric = /^[a-zA-Z0-9]+$/
 export const validUrl = /((([A-Za-z]{3,9}:(?:\/\/)?)(?:[\-;:&=\+\$,\w]+@)?[A-Za-z0-9\.\-]+|(?:www\.|[\-;:&=\+\$,\w]+@)[A-Za-z0-9\.\-]+)((?:\/[\+~%\/\.\w\-_]*)?\??(?:[\-\+=&;%@\.\w_]*)#?(?:[\.\!\/\\\w]*))?)/;
 export const validEmail = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
