@@ -3,6 +3,8 @@ import { privacyDetails } from "./privacy.details";
 import { isMobileWidth, isTabletWidth } from "../../../utility/Utils";
 import { Helmet } from "react-helmet";
 import clsx from "clsx";
+import logo from "@src/assets/images/logo/logo_full.png";
+
 export default function Privacy() {
   const mobileWidth = isMobileWidth();
 
@@ -15,7 +17,7 @@ export default function Privacy() {
   }
 
   return (
-    <div className="w-100 d-flex justify-content-center align-items-center">
+    <div className="w-100 d-flex justify-content-center align-items-center flex-column">
       <Helmet>
         <title>Legal - Privacy Policy | Mobigift</title>
         <meta
@@ -23,6 +25,9 @@ export default function Privacy() {
           content="Mobigift is the rewarding way to buy Airtime!"
         />
       </Helmet>
+      <div className="d-flex w-100">
+        <img src={logo} alt="mobigift" width="300px" height="77px" />
+      </div>
       <div
         className={clsx(
           "container-box",
@@ -31,7 +36,7 @@ export default function Privacy() {
         )}
       >
         <h1 className="display-4">Privacy and Data Policy</h1>
-        <p className="pt-3 display-5">Effective March 1st, 2021.</p>
+        <p className="pt-3 display-5">Effective June 15th, 2022.</p>
         {privacyDetails.map((data, index) => (
           <div className="pt-2 pb-2" key={index} id={data.section ? data.section : ""}>
             <h2 className={"display-3 font-bold"}>{data.name}</h2>

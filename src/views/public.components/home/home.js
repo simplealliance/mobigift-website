@@ -3,7 +3,7 @@ import { isMobileWidth, isTabletWidth } from "../../../utility/Utils";
 import clsx from "clsx";
 import { Helmet } from "react-helmet";
 import CommingSoon from '../../pages/misc/ComingSoon'
-import logo from "@src/assets/images/logo/logo.svg";
+import logo from "@src/assets/images/logo/logo_full.png";
 
 export default function Home() {
   const mobileWidth = isMobileWidth();
@@ -23,7 +23,7 @@ export default function Home() {
         />
       </Helmet>
       <div className="d-flex justify-content-center align-items-center" style={{height: "85vh"}}>
-      <img src={logo}  />
+      <img src={logo} alt="Mobigift"  />
           {/* <CommingSoon /> */}
       </div>
     </div>

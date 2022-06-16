@@ -400,10 +400,10 @@ export const privacyDetails = [
           "In the event our app contains links to third-party sites and services, please be aware that those sites and services have their own privacy policies. After following a link to any third-party content, you should read their posted privacy policy information about how they collect and use personal information. This Privacy Policy does not apply to any of your activities after you leave our app.",
       },
       {
-        description: "This policy is effective as of 29 January 2022.",
+        description: "This policy is effective as of 15th June 2022.",
       },
       {
-        description: "Last updated: 29 January 2022",
+        description: "Last updated: 15th June 2022",
       },
     ],
   },
