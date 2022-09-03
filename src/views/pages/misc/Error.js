@@ -10,7 +10,7 @@ const Error = () => {
   return (
     <div className="misc-wrapper">
       <Link className="brand-logo d-flex align-items-center" to="/">
-        <img src={logo} alt="Jsonone" width="48px" height="36px" />
+        <img src={logo} alt="mobigift" width="48px" height="46px" />
         <h2 className="brand-text text-primary ms-1">Mobigift</h2>
       </Link>
       <div className="misc-inner p-2 p-sm-3">

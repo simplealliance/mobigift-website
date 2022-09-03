@@ -47,12 +47,12 @@ import * as serviceWorker from "./serviceWorker";
 import { lsSecret } from '@src/utility/Utils'
 
 // ** Analytics
-// import GA4React, { useGA4React } from "ga-4-react";
-// const ga4react = new GA4React("G-PWTKLJGES0");
+import GA4React, { useGA4React } from "ga-4-react";
+const ga4react = new GA4React("G-K7CCXVR2HL");
 
 function MyApp() {
   const testUser = ls.get("testUser", { decrypt: true, secret: lsSecret})
-  // const ga = useGA4React();
+  const ga = useGA4React();
 
   return(
     testUser && testUser === "19992000tester123" ? <LazyApp /> : <TestApp />
@@ -71,11 +71,7 @@ ReactDOM.render(
       <Suspense fallback={<Spinner />}>
         <AbilityContext.Provider value={ability}>
           <ThemeContext>
-            <LazyApp />
-            {/* {
-              testUser && testUser === "19992000tester123" ? <LazyApp /> : <TestApp />
-            } */}
-            {/* <MyApp /> */}
+            <MyApp />
             <ToastContainer newestOnTop />
           </ThemeContext>
         </AbilityContext.Provider>
