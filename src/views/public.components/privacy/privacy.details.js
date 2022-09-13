@@ -1029,7 +1029,7 @@ export const privacyDetails = [
         description: "Customer Care",
       },
       {
-        description: "office@mobigift.co.ke",
+        description: "office@mobigift.company",
       },
     ],
   },
